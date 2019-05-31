@@ -1,0 +1,14 @@
+b={"code":"0",
+   "msg":[{"port":"27227","ip":"117.69.97.85"},
+          {"port":"23196","ip":"119.114.20.252"},
+          {"port":"32620","ip":"125.86.166.203"}]}
+print(b['msg'])
+c=b['msg'][0]
+c={'http':''}
+d='%s:%s'%(b['msg'][0]['ip'],b['msg'][0]['port'])
+c['http']=d
+print(c)
+b['msg'].remove(b['msg'][0])
+print(b['msg'])
+b['msg'].extend(b['msg'])
+print(b['msg'])

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/matplp/excel/kmean.py" line="36" mnemonic="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2fad4cca-efc8-4424-bbcf-85a9c3d74c5a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="untitled1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="numpytest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/数字图像/numpytest/numpytest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drawimage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matplp/excel/drawimage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zhengtaifenbu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matplp/excel/zhengtaifenbu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2684">
+              <caret line="126" column="4" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="7" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="excel.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matplp/excel/excel.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="946">
+              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arma.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matplp/excel/arma.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arima.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/matplp/excel/arima.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1298">
+              <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/venv/Include/马蜂窝2/getcityinformation.py" />
+        <option value="$PROJECT_DIR$/venv/Include/马蜂窝2/getcityfood.py" />
+        <option value="$PROJECT_DIR$/venv/Include/马蜂窝2/getallcity.py" />
+        <option value="$PROJECT_DIR$/venv/Include/马蜂窝2/getCityHref.py" />
+        <option value="$PROJECT_DIR$/venv/Include/base/testjson.py" />
+        <option value="$PROJECT_DIR$/venv/Include/spider/threadspider.py" />
+        <option value="$PROJECT_DIR$/venv/Include/马蜂窝2/getcitydetail.py" />
+        <option value="$PROJECT_DIR$/venv/Include/base/threadtest.py" />
+        <option value="$PROJECT_DIR$/venv/Include/马蜂窝/getfoodtext.py" />
+        <option value="$PROJECT_DIR$/venv/Include/马蜂窝/iptest.py" />
+        <option value="$PROJECT_DIR$/venv/Include/马蜂窝2/getfooddetail.py" />
+        <option value="$PROJECT_DIR$/venv2/test/__init__.py" />
+        <option value="$PROJECT_DIR$/venv2/test/numpytest.py" />
+        <option value="$PROJECT_DIR$/venv2/numpytest/numpytest.py" />
+        <option value="$PROJECT_DIR$/venv/Include/numpytest/__init__.py" />
+        <option value="$PROJECT_DIR$/venv2/scpicytest/test2.py" />
+        <option value="$PROJECT_DIR$/venv2/scpicytest/__init__.py" />
+        <option value="$PROJECT_DIR$/venv/Include/动态html/test1.py" />
+        <option value="$PROJECT_DIR$/nlp/jieba/__init__.py" />
+        <option value="$PROJECT_DIR$/venv/Include/spiderjiegou/zhengze.py" />
+        <option value="$PROJECT_DIR$/nlp/jieba/cipin.py" />
+        <option value="$PROJECT_DIR$/venv/Include/test/test1.py" />
+        <option value="$PROJECT_DIR$/venv/Include/movie/douban.py" />
+        <option value="$PROJECT_DIR$/venv/Include/movie/gettext.py" />
+        <option value="$PROJECT_DIR$/venv/Include/spider/request1.py" />
+        <option value="$PROJECT_DIR$/nlp/jieba/movie.py" />
+        <option value="$PROJECT_DIR$/nlp/jieba/txtchuli.py" />
+        <option value="$PROJECT_DIR$/nlp/jieba/zhengze.py" />
+        <option value="$PROJECT_DIR$/nlp/records/allrecords.py" />
+        <option value="$PROJECT_DIR$/nlp/matplotlib/test1.py" />
+        <option value="$PROJECT_DIR$/nlp/matplotlib/test2.py" />
+        <option value="$PROJECT_DIR$/nlp/matplotlib/test3.py" />
+        <option value="$PROJECT_DIR$/nlp/snownlp/test1.py" />
+        <option value="$PROJECT_DIR$/nlp/records/detail.py" />
+        <option value="$PROJECT_DIR$/venv/Include/评教/judgle.py" />
+        <option value="$PROJECT_DIR$/venv/Include/京东/test1.py" />
+        <option value="$PROJECT_DIR$/nlp/jieba/cloud.py" />
+        <option value="$PROJECT_DIR$/nlp/jieba/ciyun2.py" />
+        <option value="$PROJECT_DIR$/venv/Include/testspider/test1.py" />
+        <option value="$PROJECT_DIR$/venv2/opcv/text1.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/range.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/xiangxing.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/kmeans.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/3d.py" />
+        <option value="$PROJECT_DIR$/venv2/scpicytest/test3.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/excel.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/kmean.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/zhengtaifenbu.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/arma.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/arima.py" />
+        <option value="$PROJECT_DIR$/matplp/excel/drawimage.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="401" />
+    <option name="y" value="516" />
+    <option name="width" value="979" />
+    <option name="height" value="155" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <showMembers ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled1" type="cbb8eebc:String" user="untitled1" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="untitled1" type="cbb8eebc:String" user="untitled1" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="数字图像" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="数字图像" type="462c0819:PsiDirectoryNode" />
+              <item name="numpytest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="untitled1" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="untitled1" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonprojiect\untitled1\matplp\excel" />
+      <recent name="D:\pythonprojiect\untitled1\nlp\records\img" />
+      <recent name="D:\pythonprojiect\untitled1\venv\Include" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonprojiect\untitled1\matplp\excel" />
+      <recent name="D:\pythonprojiect\untitled1\matplp" />
+      <recent name="D:\pythonprojiect\untitled1\venv2\image" />
+      <recent name="D:\pythonprojiect\untitled1\nlp\jieba" />
+      <recent name="D:\untitled1\venv\Include" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.numpytest">
+    <configuration name="arima" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplp/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplp/excel/arima.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="arma" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplp/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplp/excel/arma.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="drawimage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/matplp/excel" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/matplp/excel/drawimage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="numpytest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/数字图像/numpytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/数字图像/numpytest/numpytest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="text1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv2/opcv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv2/opcv/text1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.arma" />
+      <item itemvalue="Python.drawimage" />
+      <item itemvalue="Python.arima" />
+      <item itemvalue="Python.text1" />
+      <item itemvalue="Python.numpytest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.numpytest" />
+        <item itemvalue="Python.text1" />
+        <item itemvalue="Python.drawimage" />
+        <item itemvalue="Python.arima" />
+        <item itemvalue="Python.arma" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fad4cca-efc8-4424-bbcf-85a9c3d74c5a" name="Default" comment="" />
+      <created>1535292848970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535292848970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49698794" visible="true" weight="0.2324967" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006605" side_tool="true" weight="0.23931624" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" visible="true" weight="0.26836157" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.0" />
+      <window_info id="Structure" order="1" sideWeight="0.50301206" side_tool="true" weight="0.14398943" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.30131003" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3988355" />
+      <window_info id="Favorites" order="2" sideWeight="0.50301206" side_tool="true" weight="0.14398943" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Armory" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32896653" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/matplp/matplotlib/test3.py</url>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv2/image/闃嫍.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv2/image/ruandoc.png" />
+    <entry file="file://$PROJECT_DIR$/venv2/image/ruandoc.jpg" />
+    <entry file="file://$PROJECT_DIR$/matplp/records/img/wordcloud.png" />
+    <entry file="file://$PROJECT_DIR$/matplp/records/detail.py" />
+    <entry file="file://$PROJECT_DIR$/matplp/jieba/txtchuli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/jieba/tt.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/spiderjiegou/demo.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/spiderjiegou/beautisoup5.py" />
+    <entry file="file://$PROJECT_DIR$/matplp/jieba/image/jishu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/jieba/cloud.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/jieba/ciyun2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/spiderjiegou/beautisoup4.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/马蜂窝/getcity.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/spider/posttest.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Include/spider/request2.py" />
+    <entry file="file://$PROJECT_DIR$/matplp/snownlp/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Include/testspider/test1.py" />
+    <entry file="file://$PROJECT_DIR$/venv2/image/pic.jpg" />
+    <entry file="file://$PROJECT_DIR$/venv2/image/test1.2.jpg" />
+    <entry file="file://$PROJECT_DIR$/matplp/records/allrecords.py" />
+    <entry file="file://$PROJECT_DIR$/venv2/numpytest/numpytest.py" />
+    <entry file="file://$PROJECT_DIR$/venv2/scpicytest/test2.py" />
+    <entry file="file://$PROJECT_DIR$/matplp/excel/美国2018市销率.png" />
+    <entry file="file://$PROJECT_DIR$/matplp/excel/相邻两年市场率倍数分布比.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/美国相邻两年市场率倍数.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/中国净资产收益率营业收入关系.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/中国净资产收益营业收入关系.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/range.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/matplotlib/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/matplotlib/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/matplotlib/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/scpicytest/test3.py" />
+    <entry file="file://D:/pycharm/Lib/site-packages/statsmodels/formula/formulatools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/3d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#89#107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/中国2018市销率2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/kmean.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/中国2018市销率.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/xiangxing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/zhengtaifenbu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2684">
+          <caret line="126" column="4" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/arma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/中国净资产收益率归母净利润关系.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/美国净资产收益率营业收入关系.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/美国2018市销率2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/美国2018市销率.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/美国净资产收益率归母净利润关系.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/arima.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="66" column="29" selection-start-line="66" selection-start-column="29" selection-end-line="66" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel/drawimage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv2/opcv/text1.py" />
+    <entry file="file://$PROJECT_DIR$/数字图像/numpytest/numpytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" lean-forward="true" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
