@@ -1,5 +1,5 @@
 import urllib.request as urllib2
-import
+
 
 # 构建一个CookieJar对象实例来保存cookie
 cookiejar = cookielib.CookieJar()
