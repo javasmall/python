@@ -2,14 +2,17 @@
 import re
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
+
 import jieba.analyse
+# plt.rcParams['font.family'] = ['Droid Sans Fallback']
+# plt.rcParams['axes.unicode_minus'] = False
 coding = 'utf-8'
 pattern=re.compile(r'\d*-\d*-\d*.* \d*')
 pattern2=re.compile(r'(\()(.*?)(\))')
 
 txt1=''
 
-f = open('E:/text.txt', 'r',encoding='utf-8')  # 要进行分词处理的文本文件 (统统按照utf8文件去处理，省得麻烦)
+f = open('../analyse/img/text.txt', 'r',encoding='utf-8')  # 要进行分词处理的文本文件 (统统按照utf8文件去处理，省得麻烦)
 lines = f.readlines()
 index=0
 for line in lines:
@@ -46,7 +49,7 @@ my_wordcloud = wc.generate(text)
 plt.imshow(my_wordcloud)
 plt.axis("off")
 plt.show()
-wc.to_file('zzz.png')
+wc.to_file('zz.png')
 
 
 
