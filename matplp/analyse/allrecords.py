@@ -26,7 +26,7 @@ def getpicture(y):#matplotlib绘图 发言分布
     plt.xticks(range(0,24),rotation=75,fontsize=10)#设置横坐标显示24次。
     plt.yticks(range(0,1000,50))
    # plt.legend(loc='lower right')  # 绘制图例
-   # plt.show()
+    plt.show()
     plt.savefig("hour.png",format='png')
     plt.close()
 def getciyun(value):

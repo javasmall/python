@@ -148,7 +148,7 @@ if __name__ == '__main__':
     #核心分析函数：
 
     print(len(name),len(time))
-    #getspeaktimeall(time,name)#选定区间的同学发言次数
+    getspeaktimeall(time,name)#选定区间的同学发言次数
     getemotionall(time,text,name,qq)
     # for q in qq:#每个同学的
     #     try:
