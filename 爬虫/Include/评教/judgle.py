@@ -1,3 +1,4 @@
+#江科大一键评教
 import requests
 from bs4 import BeautifulSoup
 import re
