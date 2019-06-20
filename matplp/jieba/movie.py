@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import jieba.analyse
 import pymysql
-db = pymysql.connect(host="localhost", user="root",
+db = pymysql.connect(host="biggsai.com", user="root",
                      password="123456", db="project", port=3306)
 # 使用cursor()方法获取操作游标
 cur = db.cursor()
@@ -10,12 +10,12 @@ cur = db.cursor()
 def savatofile(name,txt1):
     ags = jieba.analyse.extract_tags(txt1, topK=40)#jieba分词关键词提取，40个
     text = " ".join(ags)
-    #backgroud_Image = plt.imread('tt.jpg')//如果需要个性化词云
+    backgroud_Image = plt.imread('tt.jpg')#如果需要个性化词云
     wc = WordCloud(background_color="white",
-                   width=1500, height=1100,
-                  # mask=backgroud_Image,  # 设置背景图片
+                   width=900, height=600,
+                   mask=backgroud_Image,  # 设置背景图片
 
-                   min_font_size=30,
+                   #min_font_size=30,
                    font_path="simhei.ttf",
                     #max_font_size = 260,  # 设置字体最大值
                    random_state=30,  # 设置有多少种随机生成状态，即有多少种配色方案
@@ -25,7 +25,7 @@ def savatofile(name,txt1):
     plt.imshow(my_wordcloud)
     plt.axis("off")
     #plt.show()#如果展示的话需要一个个点
-    file='img/'+str(name)+'.png'
+    file='image/'+str(name)+'.png'
 
     wc.to_file(file)  # 保存图片文件
 #从数据库提取文本
@@ -34,7 +34,7 @@ cur.execute(sql)
 value=cur.fetchall()
 for q in value:
     name=q[0]
-    text=q[1]
+    text=q[2]
     try:
        savatofile(name,text)
     except Exception as e:

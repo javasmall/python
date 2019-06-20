@@ -150,12 +150,12 @@ if __name__ == '__main__':
     print(len(name),len(time))
     getspeaktimeall(time,name)#选定区间的同学发言次数
     getemotionall(time,text,name,qq)
-    # for q in qq:#每个同学的
-    #     try:
-    #         getstudentcloudbyqq(value,q)
-    #         getemotionbyqq(value,q)
-    #     except Exception as e:
-    #         print(e)
+    for q in qq:#每个同学的
+        try:
+            getstudentcloudbyqq(value,q)
+            getemotionbyqq(value,q)
+        except Exception as e:
+            print(e)
             
 
 
