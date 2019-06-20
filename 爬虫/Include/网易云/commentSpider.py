@@ -1,6 +1,10 @@
 import  requests
 import urllib.parse
 import base64
+from wordcloud import WordCloud
+import jieba.analyse
+import matplotlib.pyplot as plt
+from bs4 import BeautifulSoup
 from Crypto.Cipher import AES
 header={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.90 Safari/537.36',
         #'Postman-Token':'4cbfd1e6-63bf-4136-a041-e2678695b419',
@@ -52,7 +56,7 @@ def encrypt(key, content):
     # 重新编码
     result = str(base64.b64encode(encrypt_bytes), encoding='utf-8')
     return result
-def getcomment(songid):
+def getcomment(songid,page):
     url="https://music.163.com/weapi/v1/resource/comments/R_SO_4_"+songid+"?csrf_token="
     print(url)
     formdata = {
@@ -63,7 +67,7 @@ def getcomment(songid):
     aes_key = '0CoJUm6Qyw8W8jud'## 不变的
     print('aes_key:' + aes_key)
     # 对英文加密
-    source_en = '{"rid":"R_SO_4_'+songid+'","offset":"20","total":"false","limit":"20","csrf_token":""}'
+    source_en = '{"rid":"R_SO_4_'+songid+'","offset":"'+str(page*20)+'","total":"false","limit":"20","csrf_token":""}'
 
     #offset自己该
     print(source_en)
@@ -79,8 +83,34 @@ def getcomment(songid):
     req = requests.post(url=url, data=formdata, headers=header)
     return req.json()
 if __name__ == '__main__':
-    songid='487885426'
-    comment=getcomment(songid)
-    comment=comment['comments']
-    for va in comment:
-        print (va['content'])
+    songid='346576'
+    page=0
+    text=''
+    for page in range(10):
+        comment=getcomment(songid,page)
+        comment=comment['comments']
+        for va in comment:
+             print (va['content'])
+             text+=va['content']
+    ags = jieba.analyse.extract_tags(text, topK=50)  # jieba分词关键词提取，40个
+    print(ags)
+    text = " ".join(ags)
+    backgroud_Image = plt.imread('tt.jpg')  # 如果需要个性化词云
+    wc = WordCloud(background_color="white",
+                   width=1200, height=900,
+                   mask=backgroud_Image,  # 设置背景图片
+
+                   #min_font_size=50,
+                   font_path="simhei.ttf",
+                   max_font_size=200,  # 设置字体最大值
+                   random_state=50,  # 设置有多少种随机生成状态，即有多少种配色方案
+                   )  # 字体这里有个坑，一定要设这个参数。否则会显示一堆小方框wc.font_path="simhei.ttf"   # 黑体
+    # wc.font_path="simhei.ttf"
+    my_wordcloud = wc.generate(text)
+    plt.imshow(my_wordcloud)
+    plt.axis("off")
+    plt.show()  # 如果展示的话需要一个个点
+    file = 'image/' + str("aita") + '.png'
+    wc.to_file(file)
+
+
