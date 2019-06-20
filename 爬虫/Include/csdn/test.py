@@ -3,7 +3,10 @@ import time
 from bs4 import BeautifulSoup 
 
 header={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'}
-
+###
+def getpage(url):
+    pass
+    
 
 #获取访客，粉丝等基础信息
 def getbaseinfor(url):
@@ -12,11 +15,11 @@ def getbaseinfor(url):
     soup=BeautifulSoup(res,'lxml')
     node=soup.find(id="asideProfile")
     count=node.dd.span.text#总文章数
-    fan=node.select("#fanBox")[0].get('title')#粉丝数
+    fan=node.select("#fanBox")[0].get('title') #粉丝数
     love=soup.find(attrs={'class':'data-info d-flex item-tiling'}).find_all("dl")[2].get('title')#喜欢
     comment=soup.find(attrs={'class':'data-info d-flex item-tiling'}).find_all("dl")[3].get('title')#评论数量
 
-    node=node.find(attrs={'class':'grade-box clearfix'}).find_all('dl')
+    node=node.find(attrs={'class': 'grade-box clearfix'}).find_all('dl')
     visit=node[1].dd.get('title')
     jifen=node[2].dd.get('title')
     rank=node[3].get('title')

@@ -1,0 +1,12 @@
+import  requests
+from bs4 import BeautifulSoup
+header = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+     'Cookie':'acw_tc=2760824715607559510924771ef86ea31609a042abdeb32a42b51c684bb64f; x-zp-client-id=1b9430ab-2602-4ed8-b8a2-5bdb7d6a0e78; isShowSalary=t; select_city_code=489; select_city_name=%E5%85%A8%E5%9B%BD; sajssdk_2015_cross_new_user=1; Hm_lvt_08e585d395455886ebe17d4b393b6523=1560755962; isShowDownload=f; Hm_lpvt_08e585d395455886ebe17d4b393b6523=1560756695; sts_deviceid=16b6474cb3a3b9-09c17de8e4bef4-1a29140e-2073600-16b6474cb3b71a; jobRiskWarning=true; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%2216b644df12c433-0e9727c003282c-207a2549-341200-16b644df12d80f%22%2C%22%24device_id%22%3A%2216b644df12c433-0e9727c003282c-207a2549-341200-16b644df12d80f%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_referrer%22%3A%22%22%2C%22%24latest_referrer_host%22%3A%22%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%7D%7D; ZPCITIESCLICKED=|635; LastCity=%E5%8D%97%E4%BA%AC; LastCity%5Fid=635; sts_sg=1; sts_sid=16b6474f17e8d6-068f25c51e25b7-1a29140e-2073600-16b6474f17fd1b; sts_chnlsid=Unknown; zp_src_url=https%3A%2F%2Fcompany.zhaopin.com%2FCZ219167780.htm; sou_experiment=unexperiment; ZP_OLD_FLAG=false; Hm_lvt_38ba284938d5eddca645bb5e02a02006=1560758528; Hm_lpvt_38ba284938d5eddca645bb5e02a02006=1560758528; ZL_REPORT_GLOBAL={%22company%22:{%22actionid%22:%22a40af7db-6f0c-47ba-a386-f05e858a61ca-company%22%2C%22funczone%22:%22hiring_jd%22}%2C%22//www%22:{%22seid%22:%22%22%2C%22actionid%22:%2228f00cc7-ac8d-49d4-92ed-c61c700bff80-cityPage%22}%2C%22sou%22:{%22actionid%22:%223fd31c57-25b6-4e69-9dd4-91708cd522c3-sou%22%2C%22funczone%22:%22smart_matching%22}}; sts_evtseq=9'
+}
+
+data={"pageIndex":7,"pageSize":20,"S_SOU_FULL_INDEX":"python","S_SOU_WORK_CITY":"538","at":"","rt":"","platform":7,"d":"b89414a2-9303-4681-8939-d78cf1722eed","channel":""}
+url='https://m.zhaopin.com/api/capi?capiUrl=position/search&x-zp-page-request-id=1faaa9a9e31b48408727df14500c75f9-1560756694516-139343&x-zp-client-id=1b9430ab-2602-4ed8-b8a2-5bdb7d6a0e78'
+req=requests.post(url,data=data,headers=header)
+res=req.json()
+print(res)

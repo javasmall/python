@@ -21,42 +21,43 @@ print (driver.title)
 
 # 生成当前页面快照并保存
 driver.save_screenshot("baidu.png")
-
+time.sleep(3)
 # id="kw"是百度搜索输入框，输入字符串"长城"
-driver.find_element_by_id("kw").send_keys(u"印正荣")
 
-# id="su"是百度搜索按钮，click() 是模拟点击
+driver.find_element_by_id("kw").send_keys("印正荣")
+
+# # id="su"是百度搜索按钮，click() 是模拟点击
 driver.find_element_by_id("su").click()
 time.sleep(2)
-# 获取新的页面快照
-driver.save_screenshot("我儿.png")
+# # 获取新的页面快照
+# driver.save_screenshot("我儿.png")
 
-# 打印网页渲染后的源代码
-#print (driver.page_source)
+# # 打印网页渲染后的源代码
+# #print (driver.page_source)
 
-# 获取当前页面Cookie
-print (driver.get_cookies())
+# # 获取当前页面Cookie
+# print (driver.get_cookies())
 
-# ctrl+a 全选输入框内容
-driver.find_element_by_id("kw").send_keys(Keys.CONTROL,'a')
+# # ctrl+a 全选输入框内容
+# driver.find_element_by_id("kw").send_keys(Keys.CONTROL,'a')
 
-# ctrl+x 剪切输入框内容
-driver.find_element_by_id("kw").send_keys(Keys.CONTROL,'x')
+# # ctrl+x 剪切输入框内容
+# driver.find_element_by_id("kw").send_keys(Keys.CONTROL,'x')
 
-# 输入框重新输入内容
-driver.find_element_by_id("kw").send_keys("赛哥哥")
-time.sleep(2)
-# 模拟Enter回车键
-driver.find_element_by_id("su").send_keys(Keys.RETURN)
+# # 输入框重新输入内容
+# driver.find_element_by_id("kw").send_keys("赛哥哥")
+# time.sleep(2)
+# # 模拟Enter回车键
+# driver.find_element_by_id("su").send_keys(Keys.RETURN)
 
-# 清除输入框内容
-driver.find_element_by_id("kw").clear()
+# # 清除输入框内容
+# driver.find_element_by_id("kw").clear()
 
-# 生成新的页面快照
-driver.save_screenshot("itcast.png")
+# # 生成新的页面快照
+# driver.save_screenshot("itcast.png")
 
-# 获取当前url
-print (driver.current_url)
+# # 获取当前url
+# print (driver.current_url)
 
 # 关闭当前页面，如果只有一个页面，会关闭浏览器
 # driver.close()
