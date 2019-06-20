@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b0a0705-0b6a-450d-b1e7-3c232c0b8cca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/爬虫/Include/网易云/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/analyse/detail.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/analyse/detail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/jishu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/jieba/movie.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/jieba/movie.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/csdn/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/selenium/baidu.png" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/selenium/baidu.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/selenium/itcast.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/selenium/seleniumtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/selenium/seleniumtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/selenium/我儿.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/selenium/长城.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/豆瓣/douban.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣/douban.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/豆瓣/gettext.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣/gettext.py" afterDir="false" />
-    </list>
+    <list default="true" id="2b0a0705-0b6a-450d-b1e7-3c232c0b8cca" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/爬虫/Include/网易云/commentSpider.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="174">
-              <caret line="71" column="30" lean-forward="true" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+              <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -54,7 +41,7 @@
         <entry file="file://$PROJECT_DIR$/爬虫/Include/网易云/jiami.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="292">
-              <caret line="114" column="26" lean-forward="true" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
+              <caret line="114" column="26" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
               <folding>
                 <element signature="e#226#239#0" expanded="true" />
               </folding>
@@ -189,6 +176,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowPython Console.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -381,12 +369,12 @@
       <workItem from="1560778864406" duration="2553000" />
       <workItem from="1560819733288" duration="12613000" />
       <workItem from="1560910796678" duration="24462000" />
-      <workItem from="1561003297619" duration="3745000" />
+      <workItem from="1561003297619" duration="4222000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51001000" />
+    <option name="totallyTimeSpent" value="51478000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -668,7 +656,7 @@
     <entry file="file://$PROJECT_DIR$/爬虫/Include/网易云/commentSpider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="174">
-          <caret line="71" column="30" lean-forward="true" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
+          <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
           </folding>
@@ -678,7 +666,7 @@
     <entry file="file://$PROJECT_DIR$/爬虫/Include/网易云/jiami.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="292">
-          <caret line="114" column="26" lean-forward="true" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
+          <caret line="114" column="26" selection-start-line="114" selection-start-column="26" selection-end-line="114" selection-end-column="26" />
           <folding>
             <element signature="e#226#239#0" expanded="true" />
           </folding>
