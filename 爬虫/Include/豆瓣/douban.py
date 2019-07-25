@@ -2,13 +2,13 @@ import requests
 from bs4 import BeautifulSoup
 import pymysql
 import time
-db = pymysql.connect(host="biggsai.com", user="root",
+db = pymysql.connect(host="localhost", user="root",
                      password="123456", db="project", port=3306)
-#使用cursor()方法获取操作游标
+# 使用cursor()方法获取操作游标
 cur = db.cursor()
 header={'User-Agent':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36'}
 
-url1="https://movie.douban.com/j/search_subjects?type=movie&tag=%E7%83%AD%E9%97%A8&sort=time&page_limit=20&page_start=100"
+url1="https://movie.douban.com/j/search_subjects?type=movie&tag=%E5%8A%A8%E4%BD%9C&sort=time&page_limit=20&page_start=0"
 req=requests.get(url=url1)
 res=req.json()
 a=res['subjects']
@@ -21,20 +21,20 @@ def judmovie(url,name,imgurl,id):
     introduction = soup.find(attrs={'property': 'v:summary'}).text
     introduction = str(introduction).replace(' ', '')
     print(timelong,introduction)
-    sql="insert into movie(name,type,time_long,description,img)values('%s','action','%d','%s','%s')"%(name,int(timelong),introduction,imgurl)
-    try:
-        cur.execute(sql)
-        db.commit()
-    except Exception as e:
-        print(e)
-        db.rollback()
-    sql2="insert into ciyun(moviename,id)values('%s','%s')"%(name,id)
-    try:
-        cur.execute(sql2)
-        db.commit()
-    except Exception as e:
-        print(e)
-        db.rollback()
+    # sql="insert into movie(name,type,time_long,description,img)values('%s','action','%d','%s','%s')"%(name,int(timelong),introduction,imgurl)
+    # try:
+    #     cur.execute(sql)
+    #     db.commit()
+    # except Exception as e:
+    #     print(e)
+    #     db.rollback()
+    # sql2="insert into ciyun(moviename,id)values('%s','%s')"%(name,id)
+    # try:
+    #     cur.execute(sql2)
+    #     db.commit()
+    # except Exception as e:
+    #     print(e)
+    #     db.rollback()
 
 
 for team in a:

@@ -12,7 +12,7 @@ pattern2=re.compile(r'(\()(.*?)(\))')
 
 txt1=''
 
-f = open('../analyse/img/text.txt', 'r',encoding='utf-8')  # 要进行分词处理的文本文件 (统统按照utf8文件去处理，省得麻烦)
+f = open('../群聊记录分析/img/text.txt', 'r',encoding='utf-8')  # 要进行分词处理的文本文件 (统统按照utf8文件去处理，省得麻烦)
 lines = f.readlines()
 index=0
 for line in lines:

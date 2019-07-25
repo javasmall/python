@@ -24,7 +24,7 @@ def getcitylist(shengid,shengname):
     for i in range(1,count):
        getajax(shengid,i,shengname)
 def getajax(shengid,index,shengname):
-    url='http://www.mafengwo.cn/mdd/base/list/pagedata_citylist'
+    url='http://www.mafengwo.cn/mdd/基础知识/list/pagedata_citylist'
     date={'mddid':shengid,'page':index}
     req=requests.post(url,headers=header,data=date)
     #req.encoding='unicode_escape'

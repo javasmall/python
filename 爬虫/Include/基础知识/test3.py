@@ -1,0 +1,10 @@
+a=[1,2,3,4]
+b=[8,9]
+a.append(b)
+print(a)
+print(a[4][0])
+a=[1,2,3,4]
+a.extend(b)
+print(a)
+a.insert(2,99)#位置，内容a[2]=99;
+print(a)
