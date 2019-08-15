@@ -42,10 +42,13 @@ def getcomment(cookies):
     ws = w.add_sheet('sheet1')
     index=1
     while True:
+        header = {
+            'user-agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36',
+        }
         try:
             url = 'https://movie.douban.com/subject/26794435/comments?start='+str(start)+'&limit=20&sort=new_score&status=P&comments_only=1'
             start+=20
-            req = requests.get(url,cookies=cookies)
+            req = requests.get(url,cookies=cookies,headers=header)
             res = req.json()
             res=res['html']
             soup = BeautifulSoup(res, 'lxml')
@@ -72,7 +75,7 @@ def getcomment(cookies):
 
 if __name__ == '__main__':
 
-    cookies=login('15751512041','52cuihuini')
+    cookies=login('15751512041','52cuihuini!')
     getcomment(cookies)
 
 

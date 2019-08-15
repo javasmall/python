@@ -1,6 +1,7 @@
 import matplotlib.pyplot as plt
 import matplotlib
 import jieba
+import  jieba.analyse
 import xlwt
 import xlrd
 from wordcloud import WordCloud
@@ -88,6 +89,9 @@ def getciyun_most(map):
     plt.axis("off")
 
 def anylaseword(comment):
+    list=['这个','一个','不少','起来','没有','就是','不是','那个','还是','剧情','这样','那样','这种','那种','故事','人物']
+    list.append("这个")
+    print(list)
     commnetstr=''
     c = Counter()
     low=Counter()
@@ -103,7 +107,7 @@ def anylaseword(comment):
                      continue
         commnetstr+=va[3]
     for (k, v) in c.most_common():
-        if v<5:
+        if v<5 or k in list:
             c.pop(k)
             continue
         #print(k,v)

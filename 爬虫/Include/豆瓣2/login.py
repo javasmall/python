@@ -31,3 +31,4 @@ def login(username,password):
     cookies = requests.utils.dict_from_cookiejar(req.cookies)
     print(cookies)
     return cookies
+login()
