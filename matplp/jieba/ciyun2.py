@@ -10,6 +10,8 @@ print(ags)
 text = " ".join(ags)
 text="快速分析—持久储存 细致图表—比分数告诉你的更多  分析报告—用数据告诉你的状态 错题题库—精准拍搜 人工智能—回归预测 移动pc—随时随地"
 print(text)
+text=['快速','gagdagda','gadgdag','aaaa','ggggg','hrrrrr','grgrgr','grgrg']
+text=' '.join(text)
 #backgroud_Image = plt.imread('tt.jpg')#如果需要个性化词云
 wc = WordCloud(background_color="white",
                width=1500, height=1200,

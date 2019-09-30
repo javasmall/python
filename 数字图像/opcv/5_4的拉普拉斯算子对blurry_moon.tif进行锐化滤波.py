@@ -12,7 +12,7 @@ def genlaplacian(n):
     matrix[n//2][n//2] = 1-n*n
     return matrix
 
-img1 = io.imread('../image/pic1.jpg', as_gray=True)
+img1 = io.imread('../image/pic66.jpg', as_gray=True)
 img2 = conv2(img1, genlaplacian(5)/25, 'same')
 img3 = conv2(img1, genlaplacian(9)/81, 'same')
 img4 = conv2(img1, genlaplacian(15)/225, 'same')

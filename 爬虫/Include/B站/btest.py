@@ -10,6 +10,7 @@ for page in range(1,10):
     req=requests.get(url,data=data)
     res=req.text
     res=res.replace("jqueryCallback_bili_","")
+    print(res)
     res=res[1:(len(res)-1)]
     res=json.loads(res)
     result=res['result']

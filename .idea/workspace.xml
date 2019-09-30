@@ -2,110 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fad4cca-efc8-4424-bbcf-85a9c3d74c5a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bigsai.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/image/pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/image/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/image/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/image/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/image/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/numpytest/numpytest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/3.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/4_1叠加高斯噪声并滤波.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/4_2叠加椒盐噪声并滤波.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/4_3叠加乘性噪声并滤波 .py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/5_1三种不同算子对图像进行锐化处理.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/5_2锐化空间滤波.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/5_3产生任一奇数尺寸n的拉普拉斯算子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/5_4的拉普拉斯算子对blurry_moon.tif进行锐化滤波.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/6_1采用不同的梯度算子对blurry_moon.tif进行锐化滤波.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/6_2采用三种不同算子检测图像边缘.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/6_3选用双峰法对图像进行分割.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/7.其整体变暗显示两幅图像的直方图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/imageadd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/test1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/test2_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/test3_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/test3_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/opcv/test3_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/scpicytest/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/scpicytest/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/数字图像/scpicytest/test3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/Include/B站/btest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/Include/csdn/login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/Include/sourceforge/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/Include/sourceforge/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣/ciyun.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣/movie.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matplp/matplotlib/bingzhuang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/DD.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/chengdu1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/chengdu2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/chengdu3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/chengdu4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/chengdu5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/chengdu6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/didisudu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/get_distance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/getdidi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/test.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/到港时间.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/成都.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/滴滴数据.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/地图/造数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/没用/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyecharts2/没用/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数字图像/image/pic66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爬虫/Include/17素材/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣search/search_movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/friend.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/friends.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ghostdriver.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/analyse/allrecords.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/群聊记录分析/allrecords.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/analyse/detail.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/群聊记录分析/detail.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/analyse/emotion2.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/群聊记录分析/emotion2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/analyse/hour.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/analyse/img/tex.txt" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/群聊记录分析/img/tex.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/analyse/wordcloud.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/analyse/wordtime2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/2019-51MCM-Problem C-Appendix 1.xls" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/2019-51MCM-Problem C-Appendix 1.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/2019-51MCM-Problem C-Appendix 2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/2019-51MCM-Problem C-Appendix 2.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/3d.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/3d.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/arima.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/arima.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/arma.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/arma.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/drawimage.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/drawimage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/excel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/kmean.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/kmean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/range.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/sort2.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/test.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/xiangxing.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/xiangxing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/zhengtaifenbu.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/zhengtaifenbu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/中国2018市销率.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/中国2018市销率.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/中国2018市销率2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/中国2018市销率2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/中国净资产收益率归母净利润关系.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/中国净资产收益率归母净利润关系.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/中国净资产收益率营业收入关系.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/中国净资产收益率营业收入关系.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/中国净资产收益营业收入关系.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/中国净资产收益营业收入关系.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/相邻两年市场率倍数分布比.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/相邻两年市场率倍数分布比.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/美国2018市销率.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/美国2018市销率.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/美国2018市销率2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/美国2018市销率2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/美国净资产收益率归母净利润关系.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/美国净资产收益率归母净利润关系.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/美国净资产收益率营业收入关系.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/美国净资产收益率营业收入关系.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/excel/美国相邻两年市场率倍数.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/excel数据分析/美国相邻两年市场率倍数.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/jieba/image.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/jieba/tt.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/matplp/jieba/txtchuli.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/jieba/txtchuli.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/gui.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/str.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/str.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/test2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/test3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/test4.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/test4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/testjson.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/testjson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/threadtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/threadtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/元组.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/函数.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/函数.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/文件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/base/爬虫.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/基础知识/爬虫.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/mobai.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/tesst.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/csdn/getinfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/test3.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/招聘/test3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/yx.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/zhilia.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/招聘/zhilia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/微信/wechat.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/网易云/image/aita.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/网易云/image/feng.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/网易云/image/我在那看过你.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/豆瓣/douban.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣/douban.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/豆瓣/gettext.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣/gettext.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/马蜂窝/getjson.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/马蜂窝/getjson.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/马蜂窝2/getallcity.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/马蜂窝2/getallcity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/cipin.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/jieba/cipin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/ciyun2.py" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/jieba/ciyun2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/zzz.png" beforeDir="false" afterPath="$PROJECT_DIR$/matplp/jieba/zzz.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数字图像/opcv/4_3叠加乘性噪声并滤波 .py" beforeDir="false" afterPath="$PROJECT_DIR$/数字图像/opcv/4_3叠加乘性噪声并滤波 .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数字图像/opcv/5_4的拉普拉斯算子对blurry_moon.tif进行锐化滤波.py" beforeDir="false" afterPath="$PROJECT_DIR$/数字图像/opcv/5_4的拉普拉斯算子对blurry_moon.tif进行锐化滤波.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数字图像/opcv/6_2采用三种不同算子检测图像边缘.py" beforeDir="false" afterPath="$PROJECT_DIR$/数字图像/opcv/6_2采用三种不同算子检测图像边缘.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数字图像/opcv/6_3选用双峰法对图像进行分割.py" beforeDir="false" afterPath="$PROJECT_DIR$/数字图像/opcv/6_3选用双峰法对图像进行分割.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数字图像/opcv/imageadd.py" beforeDir="false" afterPath="$PROJECT_DIR$/数字图像/opcv/imageadd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/B站/btest.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/B站/btest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/csdn/login.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/csdn/login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/豆瓣2/analyse.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣2/analyse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/豆瓣2/get_comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣2/get_comment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/豆瓣2/img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣2/img.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/豆瓣2/img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/豆瓣2/img2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/马蜂窝2/getcitydetail.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/马蜂窝2/getcitydetail.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -119,37 +54,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="douban.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/豆瓣/douban.py">
+      <file leaf-file-name="imgget.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="12" column="14" lean-forward="true" selection-end-line="52" selection-end-column="99" />
+            <state relative-caret-position="228">
+              <caret line="16" column="16" selection-end-line="67" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gettext.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/豆瓣/gettext.py">
+      <file leaf-file-name="big_image_download.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="361">
+              <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ciyun.sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/豆瓣/ciyun.sql">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="downloadtest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/downloadtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="152">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -163,51 +90,18 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>set_stop_words</find>
+      <find>hour</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv/Include/spider/threadspider.py" />
-        <option value="$PROJECT_DIR$/venv/Include/马蜂窝2/getcitydetail.py" />
-        <option value="$PROJECT_DIR$/venv/Include/base/threadtest.py" />
-        <option value="$PROJECT_DIR$/venv/Include/马蜂窝/getfoodtext.py" />
-        <option value="$PROJECT_DIR$/venv/Include/马蜂窝/iptest.py" />
-        <option value="$PROJECT_DIR$/venv/Include/马蜂窝2/getfooddetail.py" />
-        <option value="$PROJECT_DIR$/venv2/test/__init__.py" />
-        <option value="$PROJECT_DIR$/venv2/test/numpytest.py" />
-        <option value="$PROJECT_DIR$/venv2/numpytest/numpytest.py" />
-        <option value="$PROJECT_DIR$/venv/Include/numpytest/__init__.py" />
-        <option value="$PROJECT_DIR$/venv2/scpicytest/test2.py" />
-        <option value="$PROJECT_DIR$/venv2/scpicytest/__init__.py" />
-        <option value="$PROJECT_DIR$/venv/Include/动态html/test1.py" />
-        <option value="$PROJECT_DIR$/nlp/jieba/__init__.py" />
-        <option value="$PROJECT_DIR$/venv/Include/spiderjiegou/zhengze.py" />
-        <option value="$PROJECT_DIR$/nlp/jieba/cipin.py" />
-        <option value="$PROJECT_DIR$/venv/Include/test/test1.py" />
-        <option value="$PROJECT_DIR$/venv/Include/movie/douban.py" />
-        <option value="$PROJECT_DIR$/venv/Include/movie/gettext.py" />
-        <option value="$PROJECT_DIR$/venv/Include/spider/request1.py" />
-        <option value="$PROJECT_DIR$/nlp/jieba/movie.py" />
-        <option value="$PROJECT_DIR$/nlp/jieba/txtchuli.py" />
-        <option value="$PROJECT_DIR$/nlp/jieba/zhengze.py" />
-        <option value="$PROJECT_DIR$/nlp/records/allrecords.py" />
-        <option value="$PROJECT_DIR$/nlp/matplotlib/test1.py" />
-        <option value="$PROJECT_DIR$/nlp/matplotlib/test2.py" />
-        <option value="$PROJECT_DIR$/nlp/matplotlib/test3.py" />
-        <option value="$PROJECT_DIR$/nlp/snownlp/test1.py" />
-        <option value="$PROJECT_DIR$/nlp/records/detail.py" />
-        <option value="$PROJECT_DIR$/venv/Include/评教/judgle.py" />
-        <option value="$PROJECT_DIR$/venv/Include/京东/test1.py" />
-        <option value="$PROJECT_DIR$/nlp/jieba/cloud.py" />
-        <option value="$PROJECT_DIR$/nlp/jieba/ciyun2.py" />
-        <option value="$PROJECT_DIR$/venv/Include/testspider/test1.py" />
-        <option value="$PROJECT_DIR$/venv2/opcv/text1.py" />
-        <option value="$PROJECT_DIR$/matplp/excel/range.py" />
-        <option value="$PROJECT_DIR$/matplp/excel/xiangxing.py" />
-        <option value="$PROJECT_DIR$/matplp/excel/kmeans.py" />
-        <option value="$PROJECT_DIR$/matplp/excel/3d.py" />
         <option value="$PROJECT_DIR$/venv2/scpicytest/test3.py" />
         <option value="$PROJECT_DIR$/matplp/excel/excel.py" />
         <option value="$PROJECT_DIR$/matplp/excel/kmean.py" />
@@ -217,15 +111,54 @@
         <option value="$PROJECT_DIR$/matplp/excel/drawimage.py" />
         <option value="$PROJECT_DIR$/爬虫/Include/csdn/tesst.md" />
         <option value="$PROJECT_DIR$/爬虫/Include/csdn/test2.py" />
-        <option value="$PROJECT_DIR$/爬虫/Include/csdn/login.py" />
         <option value="$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/爬虫/Include/直播/test.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/豆瓣2/login_douban.py" />
+        <option value="$PROJECT_DIR$/matplp/matplotlib/bingzhuang.py" />
+        <option value="$PROJECT_DIR$/matplp/jieba/cipin.py" />
+        <option value="$PROJECT_DIR$/matplp/jieba/ciyun2.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/马蜂窝2/getcitydetail.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/豆瓣2/login.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/豆瓣2/analyse.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/豆瓣2/get_comment.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/csdn/login.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/豆瓣search/search_movie.py" />
+        <option value="$PROJECT_DIR$/数字图像/opcv/imageadd.py" />
+        <option value="$PROJECT_DIR$/数字图像/opcv/test1.py" />
+        <option value="$PROJECT_DIR$/数字图像/opcv/4_2叠加椒盐噪声并滤波.py" />
+        <option value="$PROJECT_DIR$/数字图像/opcv/4_3叠加乘性噪声并滤波 .py" />
+        <option value="$PROJECT_DIR$/数字图像/opcv/5_4的拉普拉斯算子对blurry_moon.tif进行锐化滤波.py" />
+        <option value="$PROJECT_DIR$/数字图像/opcv/6_1采用不同的梯度算子对blurry_moon.tif进行锐化滤波.py" />
+        <option value="$PROJECT_DIR$/数字图像/opcv/6_2采用三种不同算子检测图像边缘.py" />
+        <option value="$PROJECT_DIR$/数字图像/opcv/6_3选用双峰法对图像进行分割.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/B站/btest.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片/downloadtest.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片/test.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片/imgget.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/downloadtest.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/test.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py" />
+        <option value="$PROJECT_DIR$/pyecharts/地图/test.py" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/test3.py" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/test.py" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/test2.py" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/getdidi.py" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/chegndu1.csv" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/chengdu1.csv" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/get_distance.py" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/到港时间.csv" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/造数据.py" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/didisudu.py" />
+        <option value="$PROJECT_DIR$/pyecharts2/地图/成都.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/17素材/__init__.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="560" />
-    <option name="y" value="41" />
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -236,35 +169,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="豆瓣" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -281,11 +185,66 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="pyecharts2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="数字图像" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="Include" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="Include" type="462c0819:PsiDirectoryNode" />
+              <item name="17素材" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="Include" type="462c0819:PsiDirectoryNode" />
+              <item name="趣味学习图片下载" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+              <item name="Include" type="462c0819:PsiDirectoryNode" />
+              <item name="趣味学习图片下载" type="462c0819:PsiDirectoryNode" />
+              <item name="img2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="E:/git/CAB-Tool" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -297,18 +256,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonprojiect\python\pyecharts2\没用" />
+      <recent name="D:\pythonprojiect\python" />
       <recent name="D:\pythonprojiect\python\爬虫\Include\招聘" />
       <recent name="D:\pythonprojiect\python\爬虫\Include\csdn" />
       <recent name="D:\pythonprojiect\python\爬虫\Include\网易云信" />
-      <recent name="D:\pythonprojiect\untitled1\matplp\excel" />
-      <recent name="D:\pythonprojiect\untitled1\nlp\records\img" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\pythonprojiect\python\pyecharts2\地图" />
+      <recent name="D:\pythonprojiect\python\数字图像\image" />
+      <recent name="D:\pythonprojiect\python\爬虫\Include\豆瓣2" />
       <recent name="D:\pythonprojiect\python" />
       <recent name="D:\pythonprojiect\python\爬虫\Include\豆瓣" />
-      <recent name="D:\pythonprojiect\python\爬虫\Include\csdn" />
-      <recent name="D:\pythonprojiect\python\爬虫\Include" />
-      <recent name="D:\pythonprojiect\python\爬虫\Include\动态html" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -323,111 +282,129 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.zhilia">
-    <configuration name="mobai" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
+  <component name="RunManager" selected="Python.big_image_download">
+    <configuration name="成都" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/csdn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyecharts2/地图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/csdn/mobai.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyecharts2/地图/成都.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
+    <configuration name="造数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/sourceforge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyecharts2/地图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/sourceforge/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyecharts2/地图/造数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/sourceforge" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/17素材" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/sourceforge/test2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/17素材/__init__.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
+    <configuration name="big_image_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/csdn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\pythonprojiect\python\爬虫\Include\招聘\test3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="zhilia" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="untitled1" />
+    <configuration name="didisudu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/csdn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyecharts2/地图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\pythonprojiect\python\爬虫\Include\招聘\zhilia.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyecharts2/地图/didisudu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="get_distance" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyecharts2/地图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyecharts2/地图/get_distance.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.test (1)" />
-      <item itemvalue="Python.test2" />
-      <item itemvalue="Python.test3" />
-      <item itemvalue="Python.mobai" />
-      <item itemvalue="Python.zhilia" />
+      <item itemvalue="Python.成都" />
+      <item itemvalue="Python.get_distance" />
+      <item itemvalue="Python.didisudu" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.big_image_download" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.zhilia" />
-        <item itemvalue="Python.mobai" />
-        <item itemvalue="Python.test3" />
-        <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.big_image_download" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.成都" />
+        <item itemvalue="Python.didisudu" />
+        <item itemvalue="Python.get_distance" />
       </list>
     </recent_temporary>
   </component>
@@ -442,6 +419,35 @@
       <option name="presentableId" value="Default" />
       <updated>1535292848970</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1564088835386</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564088835386</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1565106217969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1565106217969</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1565844795879</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1565844795879</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update">
+      <created>1567226665687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567226665687</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -455,15 +461,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49698794" visible="true" weight="0.24504623" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49698794" visible="true" weight="0.168428" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5019815" side_tool="true" visible="true" weight="0.25318247" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4980185" weight="0.3281471" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50264204" side_tool="true" weight="0.26874116" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4993395" weight="0.32956153" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.0" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4980185" weight="0.25318247" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497358" weight="0.42432815" />
       <window_info id="Structure" order="1" sideWeight="0.50301206" side_tool="true" weight="0.14398943" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993395" weight="0.301273" />
       <window_info id="Favorites" order="2" sideWeight="0.50301206" side_tool="true" weight="0.14398943" />
@@ -475,10 +479,15 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Armory" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4980185" weight="0.3281471" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -491,305 +500,234 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="19" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/Beauty woman smiling  happily .jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/Beautiful  woman with fashion make-up.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/棚拍的面妆美女.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/忧郁气质的美女.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="498">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/sourceforge/test2.py">
+    <entry file="file://D:/pycharm/Lib/site-packages/lml/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="168">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/test.py">
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/render.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-2793" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="42" column="36" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/sourceforge/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/range.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/matplotlib/test1.py">
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/DD.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/matplotlib/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/matplotlib/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv2/scpicytest/test3.py" />
-    <entry file="file://D:/pycharm/Lib/site-packages/statsmodels/formula/formulatools.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/3d.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/中国2018市销率2.jpg">
+    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/中国净资产收益率营业收入关系.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/kmean.py">
+    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/中国净资产收益营业收入关系.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/频率.jpg" />
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu5.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu6.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="39" column="23" lean-forward="true" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="16" column="25" lean-forward="true" selection-end-line="12001" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-end-line="12001" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/没用/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/没用/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/滴滴数据.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10393">
+          <caret line="547" column="174" selection-start-line="547" selection-start-column="174" selection-end-line="547" selection-end-column="188" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/中国2018市销率.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/xiangxing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/美国净资产收益率营业收入关系.png">
+    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/中国净资产收益率归母净利润关系.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/美国2018市销率2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/美国2018市销率.jpg">
+    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/相邻两年市场率倍数分布比.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/美国净资产收益率归母净利润关系.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv2/opcv/text1.py" />
-    <entry file="file://$PROJECT_DIR$/matplp/jieba/img/古剑奇谭之流月昭明.png" />
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/中国净资产收益率归母净利润关系.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/美国相邻两年市场率倍数.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/jieba/image/jishu.png">
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/滴滴数据计算.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigsai.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/数字图像/numpytest/numpytest.py" />
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/drawimage.py">
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/造数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="12181" column="25" selection-start-line="12181" selection-start-column="25" selection-end-line="12181" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/成都.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/凑数据.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/到港时间.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/get_distance.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <caret line="22" column="38" selection-end-line="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/zhengtaifenbu.py">
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/getdidi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="126" column="4" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="7" />
+        <state relative-caret-position="399">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/excel.py">
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/didisudu.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
+        <state relative-caret-position="521">
+          <caret line="41" column="10" selection-end-line="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/arma.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/pinlu.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/马蜂窝2/getallcity.py">
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/test.csv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/马蜂窝2/getfooddetail.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/马蜂窝2/getcitydetail.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/网易云信/wangyi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/sourceforge/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/test.py" />
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/招聘/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#34#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/Include/B站/btest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/mobai.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/tesst.md">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/test2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="57">
+          <caret line="4" selection-start-line="4" selection-end-line="14" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/sourceforge/test.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/17素材/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="95">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/招聘/zhilia.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="228">
+          <caret line="16" column="16" selection-end-line="67" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/getinfo.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/人民日报大楼4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/中国深圳城市天际线建筑群高楼大厦夜景6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/深圳城市建筑群和没有人的广场10.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/广州CBD2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/在市中心区的早晨        11.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/美女/有魅力的女人4.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/美女/女星温心最新写真迷离眼神演绎灵动诱惑11.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/美女/运动型美女9.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/downloadtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/豆瓣/ciyun.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/豆瓣/gettext.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="17" lean-forward="true" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/豆瓣/douban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="14" lean-forward="true" selection-end-line="52" selection-end-column="99" />
+        <state relative-caret-position="361">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
         </state>
       </provider>
     </entry>

@@ -39,8 +39,6 @@ def getproxies():
     proxies['http'] = d
     global msg
     msg = b
-
-
 # 获取详细信息
 def getdetail(url, cityid):
     global stadus

@@ -15,7 +15,7 @@ def matplotlib_multi_pic2(img):
     plt.subplot(326), plt.imshow(img[5]), plt.title("divide")
 
     plt.show()
-img1 = cv.imread('../image/pic.jpg')
+img1 = cv.imread('../image/pic66.jpg')
 img2 = cv.imread('../image/pic2.jpg')
 res1=cv.resize(img1,(320,320),interpolation=cv.INTER_CUBIC)
 res2=cv.resize(img2,(320,320),interpolation=cv.INTER_CUBIC)##立方插值

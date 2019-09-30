@@ -7,7 +7,7 @@ from skimage import data, io, filters, color, exposure,feature
 from scipy.signal import convolve2d as conv2
 
 
-img1 = io.imread('../image/pic4.jpg', as_gray=True)
+img1 = io.imread('../image/pic66.jpg', as_gray=True)
 img2=filters.prewitt(img1)
 img3=filters.scharr(img1)
 img4=feature.canny(img1)

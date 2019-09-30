@@ -14,10 +14,13 @@ text = "故宫的著名景点包括乾清宫、太和殿和午门等。其中乾
 
 # seg_list = jieba.cut(text, cut_all=False)  #精确模式（默认是精确模式）
 seg_list = jieba.cut(text)  # 精确模式（默认是精确模式）
+for va in seg_list:
+    print(va)
+print(seg_list)
 print("[精确模式]: ", " ".join(seg_list))
 
-# seg_list2 = jieba.cut(text, cut_all=True)    #全模式
-# print("[全模式]: ", " ".join(seg_list2))
+seg_list2 = jieba.cut(text, cut_all=True)    #全模式
+print("[全模式]: ", " ".join(seg_list2))
 
 seg_list3 = jieba.cut_for_search(text)    #搜索引擎模式
 print("[搜索引擎模式]: "," ".join(seg_list3))

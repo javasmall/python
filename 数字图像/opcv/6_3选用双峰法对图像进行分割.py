@@ -7,7 +7,7 @@ from skimage import data, io, filters, color, exposure, feature
 from scipy.signal import convolve2d as conv2
 
 
-img1 = io.imread('../image/pic.jpg', as_gray=True)
+img1 = io.imread('../image/pic66.jpg', as_gray=True)
 thresh = filters.threshold_otsu(img1)
 img2 = (img1 <= thresh)*1.0
 

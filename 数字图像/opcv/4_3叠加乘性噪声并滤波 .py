@@ -10,7 +10,7 @@ def shrink(img, size):
     h, w = img.shape[:2]
     return cv2.resize(img, (w//size, h//size))
 
-img1 = cv2.imread('../image/pic1.jpg', cv2.IMREAD_UNCHANGED)
+img1 = cv2.imread('../image/pic66.jpg', cv2.IMREAD_UNCHANGED)
 img1 = cv2.cvtColor(img1, cv2.COLOR_BGR2RGB)
 
 img2 = copy.deepcopy(img1)

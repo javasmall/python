@@ -69,13 +69,9 @@ def getcomment(cookies):
             print(e)
             break
     w.save('nezha.xls')
-
-
-
-
 if __name__ == '__main__':
 
-    cookies=login('15751512041','52cuihuini!')
+    cookies=login('15751512041','52cuihuini')#改成自己正确密码
     getcomment(cookies)
 
 
