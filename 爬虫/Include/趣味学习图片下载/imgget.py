@@ -43,7 +43,7 @@ def getText(text):
     req=requests.get(url,headers=header)
     soup=BeautifulSoup(req.text,'lxml')
     js=soup.select('script')
-    js=js[4]
+    js=js[3]
     print(js)
     pattern = re.compile(r'window.hits = (\[)(.*)(\])')
     va = pattern.search(str(js)).group(2)#解析js内容

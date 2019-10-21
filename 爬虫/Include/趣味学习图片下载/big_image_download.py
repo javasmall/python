@@ -26,7 +26,7 @@ def mkdir(path):
         # 如果目录存在则不创建，并提示目录已存在
         #print(path + ' 目录已存在')
          return False
-def downloadimage(imageid,imgname):
+def downloadimage(imageid,imgname):##下载大图和带水印的高质量大图
     url = 'https://weiliicimg9.pstatp.com/weili/l/'+str(imageid)+'.webp'
     url2 = 'https://icweiliimg9.pstatp.com/weili/l/'+str(imageid)+'.webp'
     b=False
@@ -40,10 +40,17 @@ def downloadimage(imageid,imgname):
 def getText(text,free):
     texturl = parse.quote(text)
     url="https://stock.tuchong.com/"+free+"search?term="+texturl+"&use=0"
+    print(url)
     req=requests.get(url,headers=header)
     soup=BeautifulSoup(req.text,'lxml')
     js=soup.select('script')
-    js=js[4]
+    path=''
+    if not free.__eq__(''):
+        js=js[1]
+        path='无水印/'
+    else:
+        js=js[3]
+        path='图虫创意/'
     print(js)
     pattern = re.compile(r'window.hits = (\[)(.*)(\])')
     va = pattern.search(str(js)).group(2)#解析js内容
@@ -57,9 +64,9 @@ def getText(text,free):
         try:
              dict = json.loads(data)
              print(dict)
-             imgname='img2/'+text+'/'+dict['title']+str(index)
+             imgname='img2/'+path+text+'/'+dict['title']+str(index)
              index+=1
-             mkdir('img2/'+text)
+             mkdir('img2/'+path+text)
              imgid=dict['imageId']
              downloadimage(imgid,imgname)
         except Exception as e:
@@ -69,6 +76,6 @@ if __name__ == '__main__':
     num=int(num)
     free=''
     if num==2:
-        free='free'
+        free='free/'
     text = input('输入关键词:')
     getText(text,free)
