@@ -1,4 +1,3 @@
-#撩妹专用，祝你撩妹成功
 #更多请关注公众号：bigsai
 import itchat
 import requests
@@ -7,6 +6,7 @@ import time
 import urllib.parse
 
 jud=False#默认是先不开启
+isreturn=False#是否回复
 To='en'#翻译成的语言默认是英语
 
 def nmd5(str):#md5加密
@@ -59,9 +59,14 @@ def text_reply(msg):
     # 返回信息调用信息
     global jud
     global To
+    global  isreturn
     text=msg['Text']
     dict = formdata(text)
-    if  "就像这样" in text:
+    if "翻译模式" in text:
+        isreturn =True
+    elif "停止翻译" in text:
+        isreturn=False
+    if  "开始" in text:
         jud=True
     elif  "停止" in text:
         jud=False
@@ -73,10 +78,9 @@ def text_reply(msg):
         To = 'ko'
     elif "法语" in text:
         To = 'fr'
-    elif "阿拉伯语" in text:
-        To = 'ar'
     if jud:#说明需要运行
-        dict['To']=To
+        dict['to']=To
+        dict['from']= 'AUTO'
         dict = urllib.parse.urlencode(dict)
         dict = str(dict)
         req = requests.post(url, timeout=1, data=dict, headers=header)
@@ -84,6 +88,16 @@ def text_reply(msg):
         transtr = val['translateResult'][0][0]['tgt']
         print(msg)
         itchat.send(transtr, toUserName=msg['ToUserName'])
-   # return msg['Text']#这个加上是如果对面发消息的监听。比如你是双向翻译可以尝试下
+    ##返回监听对面说的话
+    if isreturn:
+        dict['from']='AUTO'
+        dict['to']='zh-CHS'##翻译成中文
+        dict = urllib.parse.urlencode(dict)
+        # dict = str(dict)
+        req = requests.post(url, timeout=1, data=dict, headers=header)
+        val = req.json()
+        transtr = val['translateResult'][0][0]['tgt']
+        print(msg)
+        return 'ta说：'+str(transtr)#这个加上是如果对面发消息的监听。比如你是双向翻译可以尝试下
 # 绑定消息响应事件后，让itchat运行起来，监听消息
 itchat.run()

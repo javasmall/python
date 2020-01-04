@@ -3,205 +3,102 @@
   <component name="ChangeListManager">
     <list default="true" id="2fad4cca-efc8-4424-bbcf-85a9c3d74c5a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/                                                                                         18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/                                                                                         2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/                                                                                         22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/                                                                                         28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/                                                                                         31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/                                                                                         33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/                                                                                         6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/16名马来西亚学子毛笔书写“中国”开启汉语学习和中华文化体验38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/40.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/47.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/49.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/53.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/56.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/一群幸福的高中生或同学3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/三学生交流看文献的年轻商人14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/不同的大学生使用笔记本电脑交谈, 学习交流想法11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/不同的大学生使用笔记本电脑交谈, 学习交流想法54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/不同的大学生使用笔记本电脑交谈, 学习交流想法57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/两个一起就读大学的亚洲学生23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/人们坐在一起的设备和进展8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/伤心的女孩和她的父母吵架37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/北京“学生快乐英语”嘉年华活动开营34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/北京“学生快乐英语”嘉年华活动开营36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/北京“学生快乐英语”嘉年华活动开营39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/在大学附近学习英语的外国学生15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/在大学附近学习英语的外国学生26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/多种族人与书4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/学习交流-年轻微笑的商人持有 chalkboa42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/学习交流45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/学生交流任务的看法55.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/小女孩在平板计算设备上播放29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/微笑着年轻的亚洲女商人使用计算机在线工作13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/德国中学生到湖北恩施开展友好交流活动41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/欢迎西安喜欢摄影的朋友一起学习交流！24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/欢迎西安喜欢摄影的朋友一起学习交流！32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/江苏镇江：洋学生与小朋友共学经典43.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/湖北武汉：美容消暑27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/美国学子洛阳学中医44.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/自由职业者与女子在餐馆工作。男女交流商业项目或战略。 21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/英国培生集团CEO范岳涵对话华尔街英语学员16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习交流/高中生17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/拓扑序列/Communication network of Bangkok cityscape 4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/拓扑序列/广场镶嵌向量。重复在黑色背景上的白色检查序列。与多边形的表面图案设计。马赛克图案。网格壁纸1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/拓扑序列/广场镶嵌向量。重复在黑色背景上的白色检查序列。与多边形的表面图案设计。马赛克图案。网格壁纸2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/拓扑序列/抽象的连接点。技术背景。网络的概念3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/Search flat intensive red and black colors rounded button22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/Seo 转销商横幅。随着图形、 搜索优化、 目标和成功的个人电脑6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/互联网搜索的概念27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/互联网网找工作概念创意图。业务，技术，互联网和网络概念11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/分析，搜索过程概念24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/商人在超级英雄的面具23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/国内首份“搜索榜”出炉百度中文搜索居首位8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/在笔记本电脑的屏幕中的应用3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/在页面 seo 搜索引擎优化-页29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/女商人在办公室使用笔记本电脑4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/好奇的猫头鹰19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/心搜索图标30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/技术和互联网的概念5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/搜索图标矢量集9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/搜索引擎的优化设计18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/搜索按钮28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/搜索搜索探索概念7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/搜索放大镜图标10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/搜索放大镜概念图标。股票图平面设计图标17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/搜索文件夹矢量图标13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/放大镜图标12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/放大镜，搜索图标15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/概念的电子商务网站14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/蓝色搜索键盘键，互联网业务背景25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/虚拟屏幕上的搜索栏1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/虚拟屏幕上的搜索栏20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索/进行在线搜索信息2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索引擎的眼睛看着查看器概念1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法  7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法、全息未来世界的接口概念、虚拟9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法的概念3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法的概念4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法，全息图未来派的接口概念，增强虚拟6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法，在全息界面，视觉屏幕上工作的人 11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法，在玻璃上的写字的人10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法，在透明屏幕上写字的人12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/搜索算法，工作于全息接口，视觉屏幕13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/搜索算法/算法的眼睛看着查看器概念2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/3d 照明抽象线发光曲线未来派数字艺术            7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/3d 照明抽象线发光曲线未来派数字艺术            8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/实木类型中的数据结构6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/数据结构概念1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/数据结构概念3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/数据结构概念5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/数据结构的 Seo 彩色横幅2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/数据结构，在玻璃上写字9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/数据结构/数据结构，在透明屏幕上写字的人4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/39.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/三个美丽的树孤立3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/两只黑鸟落在一棵樱桃树上31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/丹参30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/古老的树 38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/四川成都公园里的盆栽32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/圣诞快乐!圣诞老人靠近壁炉和gi33.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/圣诞礼物盒外壳和杉木树分支在白色背景上。顶视图35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/孤立在白色背景上的树16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/孤立在白色背景上的树4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/孤立的夏树的集合1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/对于镜子是没有抵抗力的36.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/快乐时光11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/手树徽标，自然手圈健康图标，瑜伽保健符号矢量设计42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/抽象树，矢量图14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/松树林 25.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/树剪影15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/树剪影9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/树啊41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/树图标集12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/树集6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/树集合隔离在白色背景上2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/橡树与巨大树枝上夏季草甸在阳光灿烂的日子22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/环境地球日在树木生长的树苗之手。博克绿背景。17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/白色背景上孤立的二十四个不同卡通绿色树木一套19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/矢量橡树10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/红心型树29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/组的抽象风格化树23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/组的抽象风格化树5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/绿树28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/老树21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/自律第一天24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/芒果树7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/设置树。矢量27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/这棵树长在一堆树上，为未来攒钱。投资理念和业务增长。绿色背景37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/逆光下18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/树/黄色字段中棵孤独的树8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/Beautiful  woman with fashion make-up15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/Portrait of beautiful blonde woman with curly hairstyle and bright makeup, perfect skin, skincare, spa, cosmetology. Sexy vogue woman face, sensual beauty girl model.17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/Woman showing  her teeth11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/冬日捧花的少女1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/可爱的亚洲女人喝咖啡10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/在明亮的红色对中国挑衅嘴唇魅力优雅的金发美女7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/在锻炼后的健身房的跑步机累了金发美女14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/女星温心最新写真迷离眼神演绎灵动诱惑2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/忧郁气质的美女21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/棚拍的面妆美女20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/网球の少女23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/美丽的金发女人与花花环8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/蔷薇女孩13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/蔷薇清新女孩3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/运动型美女4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/上海陆家嘴全景8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/中国深圳城市天际线建筑群高楼大厦夜景6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/人民日报大楼4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/北京城市风光9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/南京紫峰大厦1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/在市中心区的早晨        11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/城市市中心全景12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/城市概念15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/广州CBD2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/成都高新区夜景道路7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/曼哈顿认为，从顶部的岩石。帝国大厦和更低的曼哈顿。纽约城18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/深圳城市建筑群和没有人的广场10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/秋天金色日出时分的苏州工业园区城市风光全景13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/科隆大教堂时间切片17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/航拍上海的天际线14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/迪拜市中心夜景16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/城市/鸟瞰大连中山广场夜色3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/0.0兆赫.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/T-34坦克.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/jishu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/“大”人物.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/一吻定情.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/一条狗的回家路.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/三方国界.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/三重威胁之跨国大营救.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/两大无猜.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/中国合伙人2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/伊莉莎与玛瑟拉.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/余波.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/假面骑士平成世代FOREVER.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/偷心女盗.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/冷血追击.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/劫匪.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/反贪风暴4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/后街女孩.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/命运之夜——天之杯II：迷失之蝶.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/哭泣女人的诅咒.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/在乎你.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/地久天长.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/地面之洞.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/复仇者.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/大侦探皮卡丘.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/大黄蜂.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/天气预爆.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/女警.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/如影随心.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/姐姐.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/娑婆诃.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/宠物坟场.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/家和万事惊.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/密室逃生.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/小猪佩奇过大年.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/小飞象.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/巴尔干边界.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/干预.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/廉政风云.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/忌日快乐2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/恭喜八婆.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/恶霸警察.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/惊天复制.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/惊奇队长.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/我们.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/我唾弃你的坟墓：似曾相识.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/我的一级兄弟.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/我身体里的那个家伙.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/战斗民族养成记.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/拍栗得.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/摇摆狂潮.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/教授与疯子.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/新喜剧之王.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/来电狂响.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/极线杀手.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/极限职业.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/欢乐满人间2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/武林怪兽.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/毒玫瑰.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/流浪地球.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/海滩流浪汉.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/海王.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/熊出没·原始时代.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/狗眼看人心.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/玛丽女王.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/玻璃先生.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/生日.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/甲铁城的卡巴内瑞：海门决战.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/疯狂的外星人.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/白蛇：缘起.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/看不见的客人(意大利版).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/神奇乐园历险记.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/神探蒲松龄.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/神秘博士元旦特辑：新年决心.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/神童.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/罗布奥特曼剧场版：决定了！羁绊的水晶.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/老师·好.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/脱欧：无理之战.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/致命之旅.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/蒙上你的眼.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/蝙蝠侠大战忍者神龟.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/证人.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/词典.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/谋杀疑案.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/超人王朝.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/遇见女孩的感觉.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/钢铁苍穹2：即临种族.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/阳台上.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/雷霆沙赞！.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/非分熟女.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/飞驰人生.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/麻药王.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/黑镜：潘达斯奈基.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matplp/jieba/image/龙珠超：布罗利.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/微信/itchat.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/微信/itchat.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬虫/Include/微信/liaomei.py" beforeDir="false" afterPath="$PROJECT_DIR$/爬虫/Include/微信/translate.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -215,78 +112,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="imgget.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py">
+      <file leaf-file-name="translate.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/爬虫/Include/微信/translate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+            <state relative-caret-position="342">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
               <folding>
-                <element signature="e#0#16#0" expanded="true" />
+                <element signature="e#17#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/login.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="change_text_type.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1292">
-              <caret line="72" selection-start-line="72" selection-end-line="73" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="big_image_download.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="love.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/love.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="1.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/1.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="   6.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/   6.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="3.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/3.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -310,11 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/venv2/scpicytest/test3.py" />
-        <option value="$PROJECT_DIR$/matplp/excel/excel.py" />
-        <option value="$PROJECT_DIR$/matplp/excel/kmean.py" />
-        <option value="$PROJECT_DIR$/matplp/excel/zhengtaifenbu.py" />
-        <option value="$PROJECT_DIR$/matplp/excel/arma.py" />
         <option value="$PROJECT_DIR$/matplp/excel/arima.py" />
         <option value="$PROJECT_DIR$/matplp/excel/drawimage.py" />
         <option value="$PROJECT_DIR$/爬虫/Include/csdn/tesst.md" />
@@ -361,13 +191,17 @@
         <option value="$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py" />
         <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py" />
         <option value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/微信/weixin.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/微信/test.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/微信/toFiler.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/有道翻译/translate.py" />
+        <option value="$PROJECT_DIR$/爬虫/Include/微信/liaomei.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="980" />
+    <option name="width" value="1120" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -403,6 +237,17 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="matplp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="matplp" type="462c0819:PsiDirectoryNode" />
+              <item name="群聊记录分析" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="爬虫" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -416,24 +261,7 @@
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="爬虫" type="462c0819:PsiDirectoryNode" />
               <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="趣味学习图片下载" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="趣味学习图片下载" type="462c0819:PsiDirectoryNode" />
-              <item name="img2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
-              <item name="Include" type="462c0819:PsiDirectoryNode" />
-              <item name="趣味学习图片下载" type="462c0819:PsiDirectoryNode" />
-              <item name="img2" type="462c0819:PsiDirectoryNode" />
-              <item name="无水印" type="462c0819:PsiDirectoryNode" />
+              <item name="微信" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -482,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.imgget">
+  <component name="RunManager" selected="Python.liaomei">
     <configuration name="big_image_download" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -501,7 +329,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="change_text_type" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="liaomei" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -509,17 +337,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/csdn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/微信" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py" />
+      <option name="SCRIPT_NAME" value="D:\pythonprojiect\python\爬虫\Include\微信\translate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="imgget" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="toFiler" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -527,17 +355,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/微信" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/微信/toFiler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="translate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -545,17 +373,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/csdn" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/有道翻译" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/csdn/login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/有道翻译/translate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="weixin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -563,30 +391,30 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/爬虫/Include/微信" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/爬虫/Include/微信/weixin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python.login" />
-      <item itemvalue="Python.change_text_type" />
       <item itemvalue="Python.big_image_download" />
-      <item itemvalue="Python.imgget" />
+      <item itemvalue="Python.translate" />
+      <item itemvalue="Python.toFiler" />
+      <item itemvalue="Python.weixin" />
+      <item itemvalue="Python.liaomei" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.imgget" />
+        <item itemvalue="Python.liaomei" />
+        <item itemvalue="Python.translate" />
+        <item itemvalue="Python.toFiler" />
+        <item itemvalue="Python.weixin" />
         <item itemvalue="Python.big_image_download" />
-        <item itemvalue="Python.change_text_type" />
-        <item itemvalue="Python.login" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -636,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569869668799</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="有道">
+      <created>1577362855815</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577362855815</updated>
+    </task>
+    <task id="LOCAL-00007" summary="有道">
+      <created>1577538798045</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577538798045</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -650,14 +492,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49698794" visible="true" weight="0.14398943" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49698794" visible="true" weight="0.14398943" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32905984" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50264204" side_tool="true" weight="0.26874116" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4993395" weight="0.32956153" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.0" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.497358" visible="true" weight="0.27864215" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.497358" weight="0.2446959" />
       <window_info id="Structure" order="1" sideWeight="0.50301206" side_tool="true" weight="0.14398943" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4993395" weight="0.301273" />
       <window_info id="Favorites" order="2" sideWeight="0.50301206" side_tool="true" weight="0.14398943" />
@@ -677,7 +518,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="有道" />
+    <option name="LAST_COMMIT_MESSAGE" value="有道" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -694,134 +536,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu6.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="25" lean-forward="true" selection-end-line="12001" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu3.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-end-line="12001" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/没用/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/没用/test3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="59" selection-start-line="14" selection-start-column="59" selection-end-line="14" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/滴滴数据.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10393">
-          <caret line="547" column="174" selection-start-line="547" selection-start-column="174" selection-end-line="547" selection-end-column="188" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/中国2018市销率.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/中国净资产收益率归母净利润关系.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/相邻两年市场率倍数分布比.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/美国净资产收益率归母净利润关系.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/matplp/excel数据分析/美国相邻两年市场率倍数.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/滴滴数据计算.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="49" lean-forward="true" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu4.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" selection-start-column="24" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bigsai.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/造数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu1.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="12181" column="25" selection-start-line="12181" selection-start-column="25" selection-end-line="12181" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/成都.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/凑数据.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/到港时间.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/get_distance.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="38" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/getdidi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/didisudu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="41" column="10" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/pinlu.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/test.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/B站/btest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/Include/17素材/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -840,7 +554,6 @@
     <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/美女/3.jpg" />
     <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/美女/2.jpg" />
     <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/美女/1.jpg" />
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/图虫创意/美女/2.jpg" />
     <entry file="file://D:/pycharm/Lib/site-packages/PIL/Image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -848,15 +561,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/   6.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/3.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/学习/   6.jpg" />
     <entry file="file://$PROJECT_DIR$/数字图像/opcv/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -868,9 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="11" column="60" selection-start-line="11" selection-start-column="60" selection-end-line="11" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,13 +588,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/pycharm/Lib/requests/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -898,33 +595,126 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/城市/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/图虫创意/美女/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/change_text_type.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1292">
+        <state relative-caret-position="616">
           <caret line="72" selection-start-line="72" selection-end-line="73" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/城市/1.jpg">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/imgget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
+        <state relative-caret-position="122">
           <caret line="45" column="11" selection-start-line="45" selection-start-column="11" selection-end-line="45" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/有道翻译/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/B站/btest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/csdn/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/图虫创意/美女/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/图虫创意/美女/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/车/4.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/车/6.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/优雅/1.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/优雅/2.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/优雅/3.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/优雅/4.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/优雅/5.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/优雅/8.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img2/无水印/优雅/7.jpg" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1387">
+          <caret line="77" column="14" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.1/system/python_stubs/567798138/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9">
+          <caret line="3967" column="12" lean-forward="true" selection-start-line="3967" selection-start-column="12" selection-end-line="3967" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/pycharm/Lib/site-packages/itchat/core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="399" column="64" lean-forward="true" selection-start-line="399" selection-start-column="64" selection-end-line="399" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/pycharm/Lib/site-packages/itchat/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="58" column="49" lean-forward="true" selection-start-line="58" selection-start-column="49" selection-end-line="58" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/微信/test.py" />
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/微信/toFiler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyecharts2/地图/chengdu1.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/img/美女/在巴巴多斯的热带海滩的比基尼长发女孩8.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/微信/weixin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#24#37#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/爬虫/Include/趣味学习图片下载/big_image_download.py">
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/有道翻译/translate.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="51" column="15" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        <state relative-caret-position="616">
+          <caret line="60" column="14" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/Include/微信/translate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#17#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
